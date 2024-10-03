@@ -1,5 +1,4 @@
-javascript
-Copy code
+
 const http = require('http');
 
 const port = 3000;
