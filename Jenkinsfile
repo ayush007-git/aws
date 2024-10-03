@@ -48,7 +48,6 @@ pipeline {
             }
         }
     }
-    }
     post {
         success {
             echo 'Pipeline succeeded!'
